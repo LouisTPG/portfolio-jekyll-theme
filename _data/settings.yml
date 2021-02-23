@@ -2,9 +2,10 @@
 # General Site Settings
 
 menu:
-- {name: '2D', url: ''}
-- {name: '3D', url: ''}
 - {name: 'About', url: 'pages/about.html'}
+- {name: '2D', url: 'projects/2Dwork.html'}
+- {name: '3D', url: 'projects/3Dwork.html'}
+- {name: 'Other Projects', url: 'projects/Other_Projects.html'}
 - {name: 'Contact', url: 'pages/contact.html'}
 
 #-------------------------------
