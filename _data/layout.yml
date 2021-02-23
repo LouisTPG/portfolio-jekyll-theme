@@ -8,5 +8,4 @@ accent: "#c99065"
 
 textColor: "#666"
 headlineColor: "#333"
-bgcolor: "url('/assets/background.jpg')"
 documentBackgroundColor: "#fff"
