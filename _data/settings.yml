@@ -48,17 +48,15 @@ about: >
 contact: >
   # Contact
 
-  You may contact me [through my email](mailto:l.nguyen.paul@gmail.com) or [tweet at me](https://twitter.com/intent/tweet?text=%40paululele) if you have any questions or would like to bring up any issues.
+  You may contact me [through my email](mailto:losn0807@gmail.com) if you would like to ask about a commission or if there's anything about my work that you'd like to know!
 
 #-------------------------------
 # Work Section
 
 projects:
-- {name: 'Project One', folder: 'proj-1', file: 'projects/proj-1.html'}
-- {name: 'Project Two', folder: 'proj-2', file: 'projects/proj-2.html'}
-- {name: 'Project Three', folder: 'proj-3', file: 'projects/proj-3.html'}
-- {name: 'Project Four', folder: 'proj-4', file: 'projects/proj-4.html'}
-- {name: 'Project Five', folder: 'proj-5', file: 'projects/proj-5.html'}
+- {name: '2D Work', folder: '2Dwork', file: 'projects/2Dwork.html'}
+- {name: '3D Work', folder: '3Dwork', file: 'projects/3Dwork.html'}
+- {name: 'Other Projects', folder: 'Other_Projects', file: 'projects/Other_Projects.html'}
 
 #-------------------------------
 # Contact Section
