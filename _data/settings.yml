@@ -44,6 +44,10 @@ about: >
   # About me
 
   My name is Louis, and I make art and illustrations. Sometimes in 2D, sometimes in 3D! I'm keen on practicing with new styles and mediums to expand my range as an artist, to make anything possible. Visually, of course.
+  
+  # Site Credits
+  
+  Special thanks to Joe and Robin for helping me set this site up. It was created with the [Portfolio Jekyll Theme]({% link https://github.com/LeNPaul/portfolio-jekyll-theme}).
 
 contact: >
   # Contact
